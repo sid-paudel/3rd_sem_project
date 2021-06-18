@@ -1,0 +1,44 @@
+.headerf{
+    background-color: darkgray;
+    height: 68px;
+    text-align: left;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    }
+.headerf i{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 1.50px;
+}
+.left3{
+    width: 10%;
+    float: left;
+}
+.content3{
+    background-color: cornsilk;
+    width: 80%;
+    height: 720px;
+    float: left;
+    
+}
+.info{
+    margin-top: 2px;
+    padding: 45px;
+    font-family: cursive;
+}
+
+.right3{
+    width: 10%;
+float: left;
+}
+
+
+.footerf{
+    height: 60px;
+    padding: 10px;
+    margin-left: 400px;
+    margin-top: 50px;
+    float: left;
+    text-align: center;
+
+}
