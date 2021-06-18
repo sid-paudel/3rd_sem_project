@@ -1,0 +1,45 @@
+.headera{
+    background-color: darkgray;
+    height: 55px;
+    text-align: left;
+    font-size: 30px;
+    font-family: monospace;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#left1{
+    width: 5%;
+    height: 600px;
+    float: left;
+}
+
+#content1{
+    background-color: cornsilk;
+    width: 90%;
+    height: 600px;
+    float: left;
+    
+}
+#right1{
+    width: 5%;
+    height: 600px;
+    float: right;
+}
+#content1 h2{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 50%;
+    margin-left: 50px;
+}
+
+ #footer1{
+    height: 60px;
+    padding: 10px;
+    margin-left: 400px;
+    margin-top: 50px;
+    float: left;
+    text-align: center;
+    } 

@@ -1,0 +1,31 @@
+.header{
+    background-color: darkgray;
+    height: 45px;
+    text-align: left;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+.left1{
+    width: 10%;
+    float: left;
+    height: 500px;
+}
+
+.content1{
+    background-color: cornsilk;
+    padding: 10px;
+    height: 500px;
+    float: left;
+    width: 80%;
+   
+}
+.table{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.right1{
+    width: 10%;
+    float: left;
+    height: 500px;  
+}
